@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Savio23br
-- 👀 I’m interested in working code and software
-- 🌱 I’m currently learning leaguange C
+SOBRE MIM:
+    Me chamo Sávio Oliveira, sou estudante no curso de Bacharel Tecnologia da Informação(BTI) na Universidade Federal Rural do Semi-Árido(UFERSA)
+    
+HABILIDADES:
+    •Desenvolvendo habilidades em C;
+    
+Certificado do curso sololearn:    
+https://api2.sololearn.com/v2/certificates/CC-LFOI7X8P/image/png?t=638668394862004090
 
-<!---
-Savio23br/Savio23br is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+•Python simples;
+•Github;
+
