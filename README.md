@@ -1,5 +1,5 @@
 SOBRE MIM:
-    Me chamo Sávio Oliveira, sou estudante no curso de Bacharel Tecnologia da Informação(BTI) na Universidade Federal Rural do Semi-Árido(UFERSA)
+    Eu me chamo Sávio de Oliveira, é sou estudante no curso de Bacharel Tecnologia da Informação(BTI) na Universidade Federal Rural do Semi-Árido(UFERSA)
     
 HABILIDADES:
     •Habilidades em C;
